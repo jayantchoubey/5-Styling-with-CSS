@@ -12,3 +12,5 @@ Styling web page using CSS.
   10) blogpage14.css --> css file for blogpage14.html (linked to blogpage14.html).
   11) 3-border.html --> web page to understand how borders work (linked to 3-border.css).
   12) 3-border.css --> css file for 3-border.html (linked to 3-border.html).
+  13) blogpage15.html --> blogpage with a border around the main content (linked to blogpage15.css).
+  14) blogpage15.css --> css file for blogpage15.html (linked to blogpage15.html)
