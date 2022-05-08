@@ -6,4 +6,5 @@ Styling web page using CSS.
   4) 2-unitrelative.css --> css file for 2-unitrelative.html (linked to 2-unitrelative.html).
   5) 2-unitviewport.html --> webpage to show how relative measurement based on viewport works (linked to 2-unitviewport.css).
   6) 2-unitviewport.css --> css file for 2-unitviewport.html (linked to 2-unitviewport.html).
-  7) 
+  7) 2-unitrem.html --> webpage to show how relative measurements based on rem units work ( linked to 2-unitrem.css).
+  8) 2-unitrem.css --> css file for 2-unitrem.html (linked to 2-unitrem.html).
