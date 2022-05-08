@@ -10,3 +10,5 @@ Styling web page using CSS.
   8) 2-unitrem.css --> css file for 2-unitrem.html (linked to 2-unitrem.html).
   9) blogpage14.html --> blogpage created using the units learnt above (linked to blogpage14.css).
   10) blogpage14.css --> css file for blogpage14.html (linked to blogpage14.html).
+  11) 3-border.html --> web page to understand how borders work (linked to 3-border.css).
+  12) 3-border.css --> css file for 3-border.html (linked to 3-border.html).
