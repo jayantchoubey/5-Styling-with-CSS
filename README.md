@@ -8,3 +8,5 @@ Styling web page using CSS.
   6) 2-unitviewport.css --> css file for 2-unitviewport.html (linked to 2-unitviewport.html).
   7) 2-unitrem.html --> webpage to show how relative measurements based on rem units work ( linked to 2-unitrem.css).
   8) 2-unitrem.css --> css file for 2-unitrem.html (linked to 2-unitrem.html).
+  9) blogpage14.html --> blogpage created using the units learnt above (linked to blogpage14.css).
+  10) blogpage14.css --> css file for blogpage14.html (linked to blogpage14.html).
