@@ -14,3 +14,7 @@ Styling web page using CSS.
   12) 3-border.css --> css file for 3-border.html (linked to 3-border.html).
   13) blogpage15.html --> blogpage with a border around the main content (linked to blogpage15.css).
   14) blogpage15.css --> css file for blogpage15.html (linked to blogpage15.html)
+  15) 4-textstyling.html --> web page to see the several text styles that can be added (linked to 4-textstyling.css).
+  16) 4-textstyling.css --> css file for 4-textstyling.html (linked to 4-textstyling.html).
+  17) 5-background.html --> code for seeing several background settings we can apply to the web page (linked to 5-background.css).
+  18) 5-background.css --> css file for 5-background.html (linked to 5-background.html).
