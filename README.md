@@ -16,5 +16,7 @@ Styling web page using CSS.
   14) blogpage15.css --> css file for blogpage15.html (linked to blogpage15.html)
   15) 4-textstyling.html --> web page to see the several text styles that can be added (linked to 4-textstyling.css).
   16) 4-textstyling.css --> css file for 4-textstyling.html (linked to 4-textstyling.html).
-  17) 5-background.html --> code for seeing several background settings we can apply to the web page (linked to 5-background.css).
-  18) 5-background.css --> css file for 5-background.html (linked to 5-background.html).
+  17) blogpage16.html --> blogpage created using text styling methods used so far (linked to blogpage16.css).
+  18) blogpage16.css --> css file for blogpage16.html (linked to blogpage16.html).
+  19) 5-background.html --> code for seeing several background settings we can apply to the web page (linked to 5-background.css).
+  20) 5-background.css --> css file for 5-background.html (linked to 5-background.html).
