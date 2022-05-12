@@ -1,0 +1,9 @@
+#bg {
+  height: 100vh;
+  weight: 100vw;
+  background-image: url("https://ninjasfiles.s3.amazonaws.com/0000000000001394.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: fix;
+}
