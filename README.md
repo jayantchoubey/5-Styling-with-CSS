@@ -20,3 +20,6 @@ Styling web page using CSS.
   18) blogpage16.css --> css file for blogpage16.html (linked to blogpage16.html).
   19) 5-background.html --> code for seeing several background settings we can apply to the web page (linked to 5-background.css).
   20) 5-background.css --> css file for 5-background.html (linked to 5-background.html).
+  21) 6-margins.html --> web page to understand how margins are added (linked to 6-margins.css).
+  22) 6-margins.css --> css file for 6-margins.html (linked to 6-margins.html).
+  23) 
