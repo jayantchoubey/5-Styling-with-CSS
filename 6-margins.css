@@ -1,0 +1,23 @@
+#parent-rel{
+  height: 200px;
+  width: 300px;
+  background-color: purple;
+  border-width: 8px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 4px;
+  margin: 4px 10px 20px 30px;
+}
+
+#child-rel{
+  height: 50%;
+  width: 50%;
+  background-color: cyan;
+}
+
+#seconddiv{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  margin: auto;
+}
