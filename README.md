@@ -22,4 +22,5 @@ Styling web page using CSS.
   20) 5-background.css --> css file for 5-background.html (linked to 5-background.html).
   21) 6-margins.html --> web page to understand how margins are added (linked to 6-margins.css).
   22) 6-margins.css --> css file for 6-margins.html (linked to 6-margins.html).
-  23) 
+  23) 7-padding.html --> web page to understand how padding is added (linked to 7-padding.css).
+  24) 7-padding.css --> css file for 7-padding.html (linked to 7-padding.html).
