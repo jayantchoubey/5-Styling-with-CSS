@@ -1,0 +1,17 @@
+#parent-rel{
+  height: 200px;
+  width: 300px;
+  background-color: purple;
+  border-width: 8px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 4px;
+  margin: 4px 10px 20px 30px;
+    padding: 20px 10px;
+}
+
+#child-rel{
+  height: 100px;
+  width: 100px;
+  background-color: cyan;
+}
