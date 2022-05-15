@@ -26,3 +26,5 @@ Styling web page using CSS.
   24) 7-padding.css --> css file for 7-padding.html (linked to 7-padding.html).
   25) blogpage17.html --> blogpage modified by adding margins to required places (linked to blogpage17.css).
   26) blogpage17.css --> css file for blogpage17.html (linked to blogpage17.html).
+  27) 8-displayprop.html --> web page to try out various display properties like inline, block and inline-block (linked to 8-displayprop.css).
+  28) 8-displayprop.css --> css file for 8-displayprop.html (linked to 8-displayprop.html).
