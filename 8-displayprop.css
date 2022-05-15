@@ -1,0 +1,33 @@
+span{
+  display: block;
+}
+
+#div1 {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+#div2 {
+  background-color: cyan;
+  height: 200px;
+  width: 200px;
+}
+
+#div3 {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+#div4 {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+div {
+  display: inline;
+}
