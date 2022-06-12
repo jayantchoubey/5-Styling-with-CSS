@@ -30,3 +30,5 @@ Styling web page using CSS.
   28) 8-displayprop.css --> css file for 8-displayprop.html (linked to 8-displayprop.html).
   29) 9-positionproperty.html --> html file to study about how several position proterties work in html (linked to 9-positionproperty.css).
   30) 9-positionproperty.css --> css file for 9-positionproperty.html (linked to 9-positionproperty.html).
+  31) 10-minmax.html --> html file to understand how min max width works in css (linked to 10-minmax.css).
+  32) 10-minmax.css --> css file for 10-minmax.html (linked to 10-minmax.html).
