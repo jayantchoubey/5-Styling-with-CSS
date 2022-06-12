@@ -28,3 +28,5 @@ Styling web page using CSS.
   26) blogpage17.css --> css file for blogpage17.html (linked to blogpage17.html).
   27) 8-displayprop.html --> web page to try out various display properties like inline, block and inline-block (linked to 8-displayprop.css).
   28) 8-displayprop.css --> css file for 8-displayprop.html (linked to 8-displayprop.html).
+  29) 9-positionproperty.html --> html file to study about how several position proterties work in html (linked to 9-positionproperty.css).
+  30) 9-positionproperty.css --> css file for 9-positionproperty.html (linked to 9-positionproperty.html).
