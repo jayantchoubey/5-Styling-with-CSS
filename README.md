@@ -32,3 +32,5 @@ Styling web page using CSS.
   30) 9-positionproperty.css --> css file for 9-positionproperty.html (linked to 9-positionproperty.html).
   31) 10-minmax.html --> html file to understand how min max width works in css (linked to 10-minmax.css).
   32) 10-minmax.css --> css file for 10-minmax.html (linked to 10-minmax.html).
+  33) 11-overflow.html --> html file to understand several types of overflow handling using css (linked to 11-overflow.css).
+  34) 11-overflow.css --> css file for 11-overflow.html (linked to 11-overflow.html).
