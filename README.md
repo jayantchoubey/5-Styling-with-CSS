@@ -34,3 +34,5 @@ Styling web page using CSS.
   32) 10-minmax.css --> css file for 10-minmax.html (linked to 10-minmax.html).
   33) 11-overflow.html --> html file to understand several types of overflow handling using css (linked to 11-overflow.css).
   34) 11-overflow.css --> css file for 11-overflow.html (linked to 11-overflow.html).
+  35) blogpage18.html --> blogpage with an aside section added (linked to blogpage18.css).
+  36) blogpage18.css --> css file for blogpage18.html (linked to blogpage18.html).
