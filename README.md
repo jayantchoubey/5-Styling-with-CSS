@@ -36,3 +36,7 @@ Styling web page using CSS.
   34) 11-overflow.css --> css file for 11-overflow.html (linked to 11-overflow.html).
   35) blogpage18.html --> blogpage with an aside section added (linked to blogpage18.css).
   36) blogpage18.css --> css file for blogpage18.html (linked to blogpage18.html).
+  37) blogpage19.html --> blogpage with logos for applications like whatsapp, facebook, etc. (linked to blogpage19.css).
+  38) blogpage19.css --> css file for blogpage19.html (linked to blogpage19.html).
+  39) blogpagefinal3.html --> a projet blogpage created using all the concepts of html and css learnt so far (linked to blogpagefinal3.css).
+  40) blogpagefinal3.css -->css file for blogpagefinal3.html (linked to blogpagefinal3.html).
